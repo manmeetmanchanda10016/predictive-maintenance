@@ -61,5 +61,15 @@ Run the Streamlit application:
 ## Limitations
 The dataset is imbalanced because machine failures are rare. Predictions may not always be correct and should not be used as the sole basis for real-world safety decisions.
 
+
+<img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/f9adf72c-1928-4740-ab6f-6beb0e355838" />
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/f6c713be-35fa-43ea-9452-8b3609b8894c" />
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/cce66cc5-b308-47b0-b836-9b0eec50b2a1" />
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/23d9aee0-8cdb-4cda-921f-1bd93a197d09" />
+
+
+
+
+
 ## Author
 CSE Student | Machine Learning Enthusiast
